@@ -6,3 +6,4 @@ def h():
     return 'abcd'
 
 print()
+print()
