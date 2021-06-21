@@ -4,3 +4,5 @@ def first():
 
 def h():
     return 'abcd'
+
+print()
