@@ -7,5 +7,8 @@ def sec():
 def third():
     return 'Hii'
 
+<<<<<<< HEAD
 print()
+=======
+>>>>>>> access
 print()
