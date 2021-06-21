@@ -6,3 +6,5 @@ def sec():
 
 def third():
     return 'Hii'
+
+print()
