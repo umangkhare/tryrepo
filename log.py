@@ -3,3 +3,6 @@ def log():
 
 def sec():
     return 'Hello'
+
+def third():
+    return 'Hii'
